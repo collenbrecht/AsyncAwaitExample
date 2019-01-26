@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attentia.Dots.AsyncAwaitExample", "Attentia.Dots.AsyncAwaitExample.csproj", "{05B0268A-532F-42A5-9655-B93A05FA2ECC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitExample", "AsyncAwaitExample.csproj", "{05B0268A-532F-42A5-9655-B93A05FA2ECC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
