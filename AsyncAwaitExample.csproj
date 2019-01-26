@@ -58,6 +58,8 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="OutputImages\Output_Asynchronous.png" />
+    <Content Include="OutputImages\Output_Asynchronous_returnvalue.png" />
     <Content Include="OutputImages\Output_Synchronous.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
