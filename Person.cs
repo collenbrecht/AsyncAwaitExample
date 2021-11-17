@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Attentia.Dots.AsyncAwaitExample
@@ -20,7 +18,7 @@ namespace Attentia.Dots.AsyncAwaitExample
         public void DoDishes()
         {
             Console.WriteLine("Doing dishes");
-            new Dishes().CleanDishes("Breakfast", Guid.NewGuid().ToString());
+            new Dishes().CleanDishes("Breakfast");
         }
 
         public void Read()

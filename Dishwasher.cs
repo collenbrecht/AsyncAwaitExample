@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
 namespace Attentia.Dots.AsyncAwaitExample
 {
@@ -16,7 +12,7 @@ namespace Attentia.Dots.AsyncAwaitExample
         }
         public Task DoDishesTask(string inputString)
         {
-            return Task.Run(() => _dishes.CleanDishes(inputString, Guid.NewGuid().ToString()));
+            return Task.Run(() => _dishes.CleanDishes(inputString));
         }
     }
 }
