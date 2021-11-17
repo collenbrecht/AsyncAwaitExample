@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Attentia.Dots.AsyncAwaitExample
+namespace AsyncAwaitExample
 {
     public class Dishes
     {

@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Attentia.Dots.AsyncAwaitExample
+namespace AsyncAwaitExample
 {
     public class Dishwasher
     {

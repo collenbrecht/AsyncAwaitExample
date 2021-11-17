@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Attentia.Dots.AsyncAwaitExample
+namespace AsyncAwaitExample
 {
     class Program
     {
